@@ -1,0 +1,1 @@
+This content is a sample for Coding Dojo Class
